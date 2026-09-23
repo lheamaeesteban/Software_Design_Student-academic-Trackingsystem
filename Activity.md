@@ -2,7 +2,7 @@
 
 | Name | Role |
 | :---- | :---- |
-|  | Leader |
+| Lhea Mae J. Esteban | Leader |
 |  | Frontend Developer |
 |  | Backend Developer |
 |  | Documentation/Tester |

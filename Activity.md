@@ -4,6 +4,6 @@
 | :---- | :---- |
 | Lhea Mae J. Esteban | Leader |
 | Julia Mae DS. Narne | Frontend Developer |
-|  | Backend Developer |
+| Ernalyn L. Galman | Backend Developer |
 |  | Documentation/Tester |
 
